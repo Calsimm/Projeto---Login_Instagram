@@ -4,7 +4,8 @@
 
 #### Mudanças realizadas
 
-- Mudança na imagem de perfil
+- Imagem de perfil e nome do usuario 
 - Mudança nos celulares
 - Mudança no logo de download (português)
+
 
